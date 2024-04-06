@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MML">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="MML.jar">
+      <element id="module-output" name="ModuleModLoader" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
